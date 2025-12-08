@@ -1,0 +1,10 @@
+fastapi==0.124.0
+python-multipart==0.0.20
+langchain-google-genai==3.2.0
+langchain==1.1.2
+langchain-core==1.1.1
+python-dotenv==1.2.1
+PyPDF2==3.0.1
+python-docx==1.2.0
+uvicorn==0.38.0
+pydantic==2.12.5
